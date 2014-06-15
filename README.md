@@ -1,8 +1,6 @@
 %{ 
     Author : Vaibhav Malpani 
-    Uni: vom2102
-    Course: Biometrics E6737
-    Final Project - Research Paper Classification using Abstract Text
+	Research Paper Classification using Abstract Text
 %}
 
 To get started, please read the ``Quick Start'' section first.
