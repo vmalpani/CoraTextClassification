@@ -21,8 +21,7 @@ Quick Start
 
 See the section ``Installation'' for setting up the required third party libraries.
 
-Dataset already pickled. After installation, download dataset from the following link:
-http://www.columbia.edu/~vom2102/Homepage/Codata/data.tar.gz
+Dataset already pickled.
 
 Code can be accessed from CourseWorks.
 
